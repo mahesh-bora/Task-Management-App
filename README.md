@@ -44,7 +44,7 @@ Clone the repository and change directory.
 Go to the project directory
 
 ```bash
-  cd flutter_travelApp
+  cd task_manager_app
 ```
 
 Flutter pub get and run
